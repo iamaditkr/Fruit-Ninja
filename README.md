@@ -5,7 +5,7 @@ for the bombs which instantly end your game on being sliced. Players can be
 engaged in a gameplay meanwhile competing by comparing the scores on
 the leaderboard.
 
-##Features
+## Features
 • Diﬀerent types of fruits each oﬀering diﬀerent points when sliced
 • Fruits spawn randomly from random coordinates of the x-axis, each with a
 diﬀerent probability of being spawned
