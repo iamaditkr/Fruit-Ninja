@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+#collisionCanvas {
+    visibility: hidden;
+}
+
+#canvas1 {
+    border:5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1408;
+    height: 672;
+}
